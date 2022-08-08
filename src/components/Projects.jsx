@@ -91,7 +91,7 @@ const Projects = () => {
             <a href="https://amoghgowda98.github.io/Portfolio/" target='_blank' className="linkk">
               Demo
             </a>
-            <a href="" target='_blank' className="linkk">
+            <a href="https://github.com/AmoghGowda98/Portfolio" target='_blank' className="linkk">
               Code
             </a>
           </div>
