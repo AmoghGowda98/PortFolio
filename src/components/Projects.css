@@ -1,0 +1,51 @@
+.p{
+	position: absolute;
+	top: 10vh;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100vw;
+}
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+	box-shadow: 5px 5px 5px 5px rgb(222, 221, 221);
+	padding: 10px;
+	margin:10vh auto;	
+	
+}
+.card{
+	max-width: 300px;
+}
+.links{
+display: flex;
+justify-content: space-between;
+
+}
+.tecks{
+	display: flex;
+	justify-content: space-between;
+	width: 250px;
+	margin: auto;
+}
+.teckstack h3{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: rgb(82, 82, 250);
+	font-weight: 500;
+}
+button{
+	background-color: white;
+	border: 0px solid grey;
+	box-shadow: 1px 1px 1px 1px rgb(222, 221, 221);
+	border-radius: 5px;
+}
+.teckstack{
+	margin-bottom: 35px;
+}
+
+img{
+	object-fit: fill;
+}
