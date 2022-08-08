@@ -88,10 +88,10 @@ const Projects = () => {
             </div>
           </div>
           <div className="links">
-            <a href="" className="linkk">
+            <a href="https://amoghgowda98.github.io/Portfolio/" target='_blank' className="linkk">
               Demo
             </a>
-            <a href="" className="linkk">
+            <a href="" target='_blank' className="linkk">
               Code
             </a>
           </div>
